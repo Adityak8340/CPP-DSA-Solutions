@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_LOGO.png" alt="Logo" width="200" height="200">
+  <img src="https://camo.githubusercontent.com/f7e0e851e021cb4bb31f85145dd95bb8d91cefb4431827ca45e6af6b49e47748/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d795739496f7943555653342f583359664e635462684c492f41414141414141414676772f6d6c642d6e4947377a5a73574f6662384e64524c425a555345314a457633526867434c63424741735948512f73313238302f426c61636b253242466c792532425479696e67253242596f75747562652532425468756d626e61696c2e706e67" alt="Logo" width="600" height="200">
   <h1>🚀 CPP-DSA-Solutions 🚀</h1>
   <p>Welcome to the world of CPP-DSA-Solutions! Dive into this treasure trove of C++ code snippets, meticulously crafted to tackle a myriad of Data Structures and Algorithms (DSA) challenges. Whether you're a DSA enthusiast or a code connoisseur, this repository promises an exhilarating journey through the realms of problem-solving and optimization. Each solution is a testament to clarity, elegance, and efficiency, ensuring that learners of all levels find enlightenment within these hallowed halls of code. Join us on this epic quest for mastery, where every line of code tells a story of ingenuity and triumph!</p>
 </div>
