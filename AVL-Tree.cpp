@@ -1,6 +1,3 @@
-//Aditya Kumar Tiwari
-//MSA23023 
-
 #include <iostream>
 struct Node {
     int data;
