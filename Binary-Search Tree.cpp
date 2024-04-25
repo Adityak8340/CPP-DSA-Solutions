@@ -1,5 +1,4 @@
-//ADITYA KUMAR TIWARI
-//MSA23023
+
 
 #include <iostream>
 
